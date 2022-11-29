@@ -43,6 +43,7 @@ span{
 }
 
 nav{
+   
 padding-top: 2.8rem;
 padding-left: var(--padding);
 padding-right: var(--padding);
@@ -57,4 +58,21 @@ h2{
 
 
     color: var(--lightColor);
+}
+nav ul li{
+
+    list-style-type:none ;
+    display: inline-block;
+    margin: 0.8rem 1.5rem;
+}
+
+nav ul li a{
+
+    color: var(--lightColor);
+    text-decoration: none ;
+}
+nav ul li a:hover{
+
+color: var(--primaryColor);
+
 }
