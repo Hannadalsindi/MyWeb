@@ -145,3 +145,18 @@ transition: 0.4s ;
 } */
 
 
+.container-images {
+
+
+    padding-bottom: 110px;
+    position: right top;   
+}
+.container-images img {
+
+width:40%;
+height: 40%;
+float: right;
+position: right top;  
+
+
+}
